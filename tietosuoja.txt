@@ -1,0 +1,5 @@
+Tamppaa Suomi sovelluksen tietosuojakäytäntö
+
+Tamppaa Suomi sovellus ei kerää mitään tietoa käyttäjistä, käyttäjien laitteista, sijainnista tai  
+verkkoyhteyden IP osoitteesta, eikä tietoja lähetetä mihinkään. Pelin edistymisen tiedot tallennetaan
+laitteen sisäiseen muistiin.
