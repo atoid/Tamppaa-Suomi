@@ -3,3 +3,9 @@ Tamppaa Suomi sovelluksen tietosuojakäytäntö
 Tamppaa Suomi sovellus ei kerää mitään tietoa käyttäjistä, käyttäjien laitteista, sijainnista tai  
 verkkoyhteyden IP osoitteesta, eikä tietoja lähetetä mihinkään. Pelin edistymisen tiedot tallennetaan
 laitteen sisäiseen muistiin.
+
+Tamp Finland application privacy policy
+
+Tamp Finland application does not collect any user information, device information, location information
+or network connection information such as IP address and no information is sent out. Progress of
+the game is stored to device internal memory.
