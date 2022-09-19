@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tamp Finland</string>
+    <string name="app_help">Zoom the map and begin tamping!</string>
+    <string name="tr_append">\u0020tamped</string>
+    <string name="tr_x">🏆\u0020\u0020</string>
+    <string name="tr_xx">🏆🏆\u0020\u0020</string>
+    <string name="tr_xxx">🏆🏆🏆\u0020\u0020</string>
+    <string name="tr_1">1 area</string>
+    <string name="tr_5">5 areas</string>
+    <string name="tr_10">10 areas</string>
+    <string name="tr_50">50 areas</string>
+    <string name="tr_100">100 areas</string>
+    <string name="tr_500">500 areas</string>
+    <string name="tr_1000">1000 areas</string>
+    <string name="tr_2000">Annoying help</string>
+    <string name="tr_5000">5000 areas</string>
+    <string name="tr_10000">10000 areas</string>
+    <string name="tr_20000">20000 areas</string>
+    <string name="tr_30000">30000 areas</string>
+    <string name="tr_40000">40000 areas</string>
+    <string name="tr_47545">Half of Finland</string>
+    <string name="tr_50000">50000 areas</string>
+    <string name="tr_60000">60000 areas</string>
+    <string name="tr_70000">70000 areas</string>
+    <string name="tr_80000">80000 areas</string>
+    <string name="tr_90000">90000 areas</string>
+    <string name="tr_95091">Finland</string>
+    <string name="trophies">Awards</string>
+</resources>

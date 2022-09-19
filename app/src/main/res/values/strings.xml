@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Tamppaa Suomi</string>
+    <string name="app_help">Suurenna karttaa ja aloita tamppaaminen!</string>
+    <string name="tr_append">\u0020tampattu</string>
+    <string name="tr_x">🏆\u0020\u0020</string>
+    <string name="tr_xx">🏆🏆\u0020\u0020</string>
+    <string name="tr_xxx">🏆🏆🏆\u0020\u0020</string>
+    <string name="tr_1">1 alue</string>
+    <string name="tr_5">5 aluetta</string>
+    <string name="tr_10">10 aluetta</string>
+    <string name="tr_50">50 aluetta</string>
+    <string name="tr_100">100 aluetta</string>
+    <string name="tr_500">500 aluetta</string>
+    <string name="tr_1000">1000 aluetta</string>
+    <string name="tr_2000">Alkuohje</string>
+    <string name="tr_5000">5000 aluetta</string>
+    <string name="tr_10000">10000 aluetta</string>
+    <string name="tr_20000">20000 aluetta</string>
+    <string name="tr_30000">30000 aluetta</string>
+    <string name="tr_40000">40000 aluetta</string>
+    <string name="tr_47545">Puoli Suomea</string>
+    <string name="tr_50000">50000 aluetta</string>
+    <string name="tr_60000">60000 aluetta</string>
+    <string name="tr_70000">70000 aluetta</string>
+    <string name="tr_80000">80000 aluetta</string>
+    <string name="tr_90000">90000 aluetta</string>
+    <string name="tr_95091">Suomi</string>
+    <string name="trophies">Palkinnot</string>
+</resources>
