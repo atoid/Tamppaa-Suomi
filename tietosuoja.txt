@@ -1,3 +1,8 @@
+Tamppaa Suomi app
+
+https://play.google.com/store/apps/details?id=com.apophis.tamppaasuomi
+https://play.google.com/store/apps/developer?id=Matti+Kantola
+
 Tamppaa Suomi sovelluksen tietosuojakäytäntö
 
 Tamppaa Suomi sovellus ei kerää mitään tietoa käyttäjistä, käyttäjien laitteista, sijainnista tai  
@@ -9,3 +14,7 @@ Tamp Finland application privacy policy
 Tamp Finland application does not collect any user information, device information, location information
 or network connection information such as IP address and no information is sent out. Progress of
 the game is stored to device internal memory.
+
+Yhteydenotot / Contact
+
+apophis@kajaani.net
